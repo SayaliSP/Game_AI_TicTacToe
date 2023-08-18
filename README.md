@@ -14,15 +14,11 @@ Tic-Tac-Toe, a classic two-player game, served as the platform to showcase the p
 
 2. **Minimax Algorithm:** The Minimax algorithm exhaustively searches the game tree by simulating all possible moves of both players. It assigns a value to each possible move based on the outcome of the game and the player's perspective (maximizer or minimizer). The AI maximizes its chances of winning while minimizing the opponent's chances.
 
-3. **Alpha-Beta Pruning:** To enhance the efficiency of the Minimax algorithm, alpha-beta pruning was implemented. This optimization reduces the number of nodes evaluated during the search.
-
 # Results and Analysis:
 
 1. **Optimal Gameplay:** The AI consistently made optimal moves, resulting in a competitive gameplay experience for users.
 
 2. **Performance:** The use of alpha-beta pruning significantly reduced the computational burden, allowing the AI to analyze deeper levels of the game tree in less time.
-
-3. **Difficulty Levels:** By controlling the depth of the search, different difficulty levels were implemented. The AI's skill level could be adjusted to cater to players of varying expertise.
 
 # Conclusion:
 
